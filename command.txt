@@ -1,0 +1,7 @@
+commands for json;
+
+// setup
+npm install -g live-server
+
+// run
+live server
